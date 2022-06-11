@@ -1,0 +1,31 @@
+segment_sources:
+  I69C05F35:
+    type: origin_type
+    relation: translation
+    language: en
+  I50A8FBA1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6e7d4fbe3f164cd89eabc7ddace99a7d:
+    I69C05F35: 5894c06a27ee444eb53959da9c439b39
+    I50A8FBA1: e8bde8cfe1624f8bb0750c46a30a76f3
+  1c0f46df2c5d4f33865ed4c47077c35d:
+    I69C05F35: 8e189bb4513e4394b73006a0c5bdf16d
+    I50A8FBA1: ec3cb47377a24d54a90057252a05d2a2
+  0e51d1fafff34d0dba174a24ebcb3359:
+    I69C05F35: 2d9f03bcd26b494ab56ce501245b7245
+    I50A8FBA1: 0f8bcb5162f540d1a7bdbc61e8a41236
+  9f6f90ec3a9c4029b23398b1866499ee:
+    I69C05F35: c47c6920f7da4eb4994beb8515b2f390
+    I50A8FBA1: c50543b82128495ea2534b0bc38befb2
+  cdd4c9d18ffe4f22a9bd1ad0f3672889:
+    I69C05F35: 95dad38f0c3446bdbb86c75b42d69aa3
+    I50A8FBA1: c3e9606f74d943cc8cf6896185752c85
+  4f3cea076c8a45af9951385139b8fd98:
+    I69C05F35: dd3e3b1d105b45a6b9b99fbae4568c54
+    I50A8FBA1: 40ff9da144c74e718ae6870e6cd7ed34
+  8ce4c9471eaf404885ab010583218ed3:
+    I69C05F35: 08b47abe2212409488938c7ff120aa95
+    I50A8FBA1: 84b3456ee063425487bd15a0f0b37057
